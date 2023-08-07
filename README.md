@@ -105,3 +105,13 @@ python autograder.py -q q5
 ```
 
 <br>
+
+
+<h3>test the whole project :</h3>
+
+```
+python autograder.py 
+```
+
+
+
